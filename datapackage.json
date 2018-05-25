@@ -1,0 +1,48 @@
+{
+  "name": "food-consumption",
+  "title": "Food Consumption",
+  "descriptions": "",
+  "licenses": [
+    {
+      "path": "",
+      "title": ""
+    }
+  ],
+  "keywords": [],
+  "version": "",
+  "last_updated": "",
+  "sources": [
+    {
+      "title": "OpenMV",
+      "path": "http://openmv.net/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "http://openmv.net/file/food-consumption.csv",
+      "name": "food-consumption",
+      "format": "csv",
+      "host":"remote",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country",
+            "type": "string"
+          },
+          {
+            "name": "property",
+            "type": "string"
+          },
+          {
+            "name": "comments",
+            "type": "string"
+          },
+          {
+            "name": "comments",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
