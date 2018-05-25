@@ -30,16 +30,84 @@
             "type": "string"
           },
           {
-            "name": "property",
-            "type": "string"
+            "name": "Real Coffee",
+            "type": "number"
           },
           {
-            "name": "comments",
-            "type": "string"
+            "name": "Instant Coffee",
+            "type": "number"
           },
           {
-            "name": "comments",
-            "type": "string"
+            "name": "Tea",
+            "type": "number"
+          },
+          {
+            "name": "Sweetener",
+            "type": "number"
+          },
+          {
+            "name": "Biscuits",
+            "type": "number"
+          },
+          {
+            "name": "Powder soup",
+            "type": "number"
+          },
+          {
+            "name": "Tin soup",
+            "type": "number"
+          },
+          {
+            "name": "Potatoes",
+            "type": "number"
+          },
+          {
+            "name": "Frozen fish",
+            "type": "number"
+          },
+          {
+            "name": "Frozen veggies",
+            "type": "number"
+          },
+          {
+            "name": "Apples",
+            "type": "number"
+          },
+          {
+            "name": "Oranges",
+            "type": "number"
+          },
+          {
+            "name": "Tinned fruit",
+            "type": "number"
+          },
+          {
+            "name": "Jam",
+            "type": "number"
+          },
+          {
+            "name": "Garlic",
+            "type": "number"
+          },
+          {
+            "name": "Butter",
+            "type": "number"
+          },
+          {
+            "name": "Margarine",
+            "type": "number"
+          },
+          {
+            "name": "Olive oil",
+            "type": "number"
+          },
+          {
+            "name": "Yogurt",
+            "type": "number"
+          },
+          {
+            "name": "Crisp Bread",
+            "type": "number"
           }
         ]
       }
